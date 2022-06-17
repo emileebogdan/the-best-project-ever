@@ -7,4 +7,9 @@
 h1 {
     text-align: center;
 }
+body{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+}
 
